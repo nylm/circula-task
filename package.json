@@ -1,0 +1,16 @@
+{
+  "name": "circula-int-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "NC",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.12.0"
+  }
+}
