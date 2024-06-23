@@ -1,5 +1,5 @@
 # Sample UI test automation for Circula app
-This repository contains the Cypress test automation framework for end-to-end testing of [Circula](https://www.circula.com/en).
+This repository contains sample end-to-end test automation framework for [Circula](https://www.circula.com/en).
 This automation framework is developed using Cypress, JavaScript and CSS.
 
 ## Prerequisites
